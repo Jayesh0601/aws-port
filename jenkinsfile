@@ -1,4 +1,4 @@
-#hello this is my jenkins file use this to deploy project thanku
+#hello this is my jenkins file use this to deploy project 
 
 pipeline {
     agent any
